@@ -1,5 +1,5 @@
 # MobilePhoneAPP
-simple mobilephone application when customer can add, print find, modify and delete contacts. It is based on OOP principles
+simple mobilephone application where customer can add, print find, modify and delete contacts. It is based on OOP principles
 
         // A program that implements a simple mobile phone with the following capabilities.
         // Able to store, modify, remove and query contact names.
